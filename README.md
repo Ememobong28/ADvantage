@@ -35,7 +35,8 @@ Font Awesome Icons - For intuitive visual representation
      
   ![Flask](https://img.shields.io/badge/flask-%23039BE5.svg?style=for-the-badge&logo=flask)      ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
+### Deployment Link
+https://67d40dc9b40ce21533b71721--dashing-mandazi-cd2f77.netlify.app/ (The WIFI doesnt open it because of slow Connection)
 
 ### Figma Link
 [https://www.figma.com/file/ZiTRLrdRSrQLuUPcadMoUm/Untitled?type=design&node-id=8-329&mode=design&t=a6L5XMkHV9OUfnS6-0](https://www.figma.com/design/nWZ58iFv6D204hOTpzLqN3/botb-ADvantage?node-id=6-1472&t=gLVEMFAQiMNYiuAp-1)
